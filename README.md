@@ -83,7 +83,7 @@ FastCellpose requires a sufficient amount of data  to complete its supervised tr
 
 ## Advanced model settings
 
-### LR iteration
+### Learning rate(LR) iteration
 
 Change in *core.py* line 851
 
